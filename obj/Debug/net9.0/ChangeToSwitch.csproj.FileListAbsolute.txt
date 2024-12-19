@@ -1,0 +1,14 @@
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\bin\Debug\net9.0\ChangeToSwitch.exe
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\bin\Debug\net9.0\ChangeToSwitch.deps.json
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\bin\Debug\net9.0\ChangeToSwitch.runtimeconfig.json
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\bin\Debug\net9.0\ChangeToSwitch.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\bin\Debug\net9.0\ChangeToSwitch.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\ChangeToSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\ChangeToSwitch.AssemblyInfoInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\ChangeToSwitch.AssemblyInfo.cs
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\ChangeToSwitch.csproj.CoreCompileInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\ChangeToSwitch.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\refint\ChangeToSwitch.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\ChangeToSwitch.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\ChangeToSwitch.genruntimeconfig.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ChangeToSwitch\obj\Debug\net9.0\ref\ChangeToSwitch.dll
